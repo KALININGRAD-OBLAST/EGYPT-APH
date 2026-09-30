@@ -34,5 +34,8 @@
     </th>
 </table>
 <br><br>
+<details align="center">
+    <summary>ㅤㅤㅤㅤㅤㅤ</summary>
+    <a href="https://github.com/pt-walk-of-fame">pt-walk-of-fame</a>ㅤㅤ<a href="https://github.com/pt-of-awesomeness">pt-of-awesomeness</a>ㅤㅤ<a href="https://github.com/compliment-town">compliment-town</a>ㅤㅤ<a href="https://github.com/pt-ship-nominations">pt-ship-nominations</a>
+</details>
 <p align="center"><sub><sub><a href="https://pluralkit.xyz/f/nnfsba">Current fronters</a></sub></sub></p>
-<table align="center">
